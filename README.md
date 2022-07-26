@@ -2,10 +2,13 @@
 👋 Hi!
   <ul>
   <li> ✨ Pronounts: She/Her </li>
-  <li> 🌱 I’m currently learning how to build a backend using Express/Postgres. </li>
+  <li> 🌱 I’m currently learning how create advanced full-stack apps! </li>
   <li> 💜 I’m looking to collaborate on any projects that are beneficial to the greater good and prioritize creativity! </li>
   <li> 📫 How to reach me: delaney.fk@gmail.com OR https://www.linkedin.com/in/delaney-fogarty/ </li>
 <ul>
+	<br></br>
+	
+[![Delaney's GitHub stats](https://github-readme-stats.vercel.app/api?username=delaneyfogarty&hide=stars&theme=cobalt)](https://github.com/delaneyfogarty/github-readme-stats)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,6 +19,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![ESlint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 	
-	
-	
-[![Delaney's GitHub stats](https://github-readme-stats.vercel.app/api?username=delaneyfogarty)](https://github.com/delaneyfogarty/github-readme-stats)
